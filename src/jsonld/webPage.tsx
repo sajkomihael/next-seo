@@ -1,5 +1,5 @@
 import React from 'react';
-import type { ReviewedBy } from 'src/types';
+import type { ReviewedBy } from '../types';
 
 import { JsonLd } from './jsonld';
 import { setReviewedBy } from 'src/utils/schema/setReviewedBy';

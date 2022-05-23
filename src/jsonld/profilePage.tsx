@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { JsonLd, JsonLdProps } from './jsonld';
-import type { ItemListElements } from 'src/types';
+import type { ItemListElements } from '../types';
 import { setItemListElements } from 'src/utils/schema/setItemListElements';
 
 export interface ProfilePageJsonLdProps extends JsonLdProps {

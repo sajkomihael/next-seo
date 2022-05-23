@@ -1,6 +1,6 @@
 import React from 'react';
 
-import type { Provider } from 'src/types';
+import type { Provider } from '../types';
 import { setProvider } from 'src/utils/schema/setProvider';
 
 import { JsonLd, JsonLdProps } from './jsonld';

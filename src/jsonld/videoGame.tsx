@@ -7,7 +7,7 @@ import type {
   Video,
   Review,
   ApplicationCategory,
-} from 'src/types';
+} from '../types';
 import { setAggregateRating } from 'src/utils/schema/setAggregateRating';
 import { setAuthor } from 'src/utils/schema/setAuthor';
 import { setImage } from 'src/utils/schema/setImage';

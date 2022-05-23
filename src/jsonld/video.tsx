@@ -1,5 +1,5 @@
 import React from 'react';
-import { Video } from 'src/types';
+import { Video } from '../types';
 
 import { JsonLd, JsonLdProps } from './jsonld';
 import { setVideo } from 'src/utils/schema/setVideo';

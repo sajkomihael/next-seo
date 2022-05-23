@@ -10,7 +10,7 @@ import type {
   GeoCircle,
   OpeningHoursSpecification,
   Offer,
-} from 'src/types';
+} from '../types';
 import { setAddress } from 'src/utils/schema/setAddress';
 import { setReviews } from 'src/utils/schema/setReviews';
 import { setGeo } from 'src/utils/schema/setGeo';

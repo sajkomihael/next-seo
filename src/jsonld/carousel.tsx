@@ -3,7 +3,7 @@ import React from 'react';
 import { JsonLd, JsonLdProps } from './jsonld';
 
 import type { CourseJsonLdProps, RecipeJsonLdProps } from 'src/index';
-import type { Review, AggregateRating } from 'src/types';
+import type { Review, AggregateRating } from '../types';
 import { setReviews } from 'src/utils/schema/setReviews';
 import { setAuthor } from 'src/utils/schema/setAuthor';
 import { setNutrition } from 'src/utils/schema/setNutrition';

@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { JsonLd, JsonLdProps } from './jsonld';
-import type { Review, AggregateRating } from 'src/types';
+import type { Review, AggregateRating } from '../types';
 import { setAggregateRating } from 'src/utils/schema/setAggregateRating';
 import { setReviews } from 'src/utils/schema/setReviews';
 

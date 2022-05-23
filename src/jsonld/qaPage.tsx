@@ -1,6 +1,6 @@
 import React from 'react';
 
-import type { Question } from 'src/types';
+import type { Question } from '../types';
 import { setAuthor } from 'src/utils/schema/setAuthor';
 
 import { JsonLd, JsonLdProps } from './jsonld';

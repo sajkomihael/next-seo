@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { JsonLd, JsonLdProps } from './jsonld';
-import type { Location, AggregateOffer, Offers, Performer } from 'src/types';
+import type { Location, AggregateOffer, Offers, Performer } from '../types';
 import { setLocation } from 'src/utils/schema/setLocation';
 import { setPerformer } from 'src/utils/schema/setPerformer';
 import { setOffers } from 'src/utils/schema/setOffers';
